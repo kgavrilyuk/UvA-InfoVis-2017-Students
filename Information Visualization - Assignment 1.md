@@ -292,9 +292,8 @@ We should be able to open your visualization with a single click, i.e. open the 
 3. [D3 examples with code](https://github.com/d3/d3/wiki/Gallery)
 4. [Introduction to D3.js](https://www.youtube.com/watch?v=8jvoTV54nXw) (YouTube Video)
 5. [Mike Bostock’s blog](https://bost.ocks.org/mike/)
-6. [D3.js Step by Step](http://zeroviscosity.com/category/d3-js-step-by-step)
-7. [D3 official documentation wiki](https://github.com/d3/d3/wiki)
-8. [Overview of changes in D3 v4](https://iros.github.io/d3-v4-whats-new/#1)
-9. [List of changes in D3 v4](https://github.com/d3/d3/blob/master/CHANGES.md)
-10. [Getting Sublime 3 To Launch your HTML page in a Browser with a Key Combo](http://michaelcrump.net/getting-sublime-3-to-launch-your-html-page-in-a-browser-with-a-key-combo/)
+6. [D3 official documentation wiki](https://github.com/d3/d3/wiki)
+7. [Overview of changes in D3 v4](https://iros.github.io/d3-v4-whats-new/#1)
+8. [List of changes in D3 v4](https://github.com/d3/d3/blob/master/CHANGES.md)
+9. [Getting Sublime 3 To Launch your HTML page in a Browser with a Key Combo](http://michaelcrump.net/getting-sublime-3-to-launch-your-html-page-in-a-browser-with-a-key-combo/)
  
