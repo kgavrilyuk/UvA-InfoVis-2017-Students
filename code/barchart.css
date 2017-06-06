@@ -1,0 +1,17 @@
+body {
+  font: 10px sans-serif;
+  padding: 40px 60px;
+}
+
+rect.bar {
+  opacity: 0.7
+}
+
+rect.bar:hover {
+  opacity: 1.0;
+}
+
+text.label {
+  fill: #FFFFFF;
+  font: 10px sans-serif;
+}
