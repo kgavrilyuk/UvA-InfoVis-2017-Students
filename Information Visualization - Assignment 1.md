@@ -57,7 +57,7 @@ This example shows how we can select and modify elements based on the *type* (re
 
 In this walkthrough example we are going to create a simple bar chart displaying the percentage of never married people in the United States of America. This data is publicly available by the [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/marriage). We have specially prepared a dataset for you from `both_sexes.csv` to have information only about the population of 25-34 age. If you are interested in other datasets you can have a look at their webpage [FiveThirtyEight](https://fivethirtyeight.com/). The bar chart you will create looks similar to the following figure.
 
-![Barchart](https://github.com/kgavrilyuk/UvA-InfoVis-2017-TA/blob/master/assets/barchart.png)
+![Barchart](https://github.com/kgavrilyuk/UvA-InfoVis-2017-Students/blob/master/assets/barchart.png)
 
 The first thing we need to do is setting up an empty HTML document which will hold all the code for our visualization. If you are familiar with HTML then you will immediately recognize all the components; if not, you might want to study all the elements in the document. Create an empty document with the name `barchart.html` and put the following code inside it.
 
@@ -241,7 +241,7 @@ We have reached the end of the walkthrough. You can find all code of walkthrough
 
 In this assignment, you are expected to create another simple chart, namely, grouped bar chart. Grouped bar charts are useful when visualizing multiple categories of your data simultaneously. The following figure shows how your grouped bar chart should look like.
 
-![GroupedBarChart](https://github.com/kgavrilyuk/UvA-InfoVis-2017-TA/blob/master/assets/grouped_barchart.png)
+![GroupedBarChart](https://github.com/kgavrilyuk/UvA-InfoVis-2017-Students/blob/master/assets/grouped_barchart.png)
 
 In this assignment, you are going to work on the dataset that contains the percentage of never married in the United States from 1960 till 2012. The dataset is available in `datasets` directory and in Blackboard under the name `marriage.csv`.
 
@@ -262,9 +262,9 @@ Similar to the walkthrough example, you should first define your visual layout i
 
 In the final part of the assignment, you will visualize the number of sold dwellings (i.e. houses) in the Netherlands. We want to show the number of sold dwellings by each dwelling type for the year 2016. You're advised to use a pie or donut chart, as it is suitable for visualizing percentages and shares. An example of output: two figures below. The dataset can be simply downloaded from this repository `/datasets/House_Price_Index_Dwellings.csv`. Additionally, you can have a look at the dataset on [cbs.nl](http://statline.cbs.nl/StatWeb/publication/?DM=SLEN&PA=81886ENG&D1=0-5&D2=a&D3=79-l&LA=EN&HDR=T&STB=G1,G2&VW=T).
 
-![No. of Dwellings Sold in 2010 Pie](https://github.com/kgavrilyuk/UvA-InfoVis-2017-TA/blob/master/assets/sold_dwellings_by_type.png?raw=true)
+![No. of Dwellings Sold in 2010 Pie](https://github.com/kgavrilyuk/UvA-InfoVis-2017-Students/blob/master/assets/sold_dwellings_by_type.png)
 
-![No. of Dwellings Sold in 2010 Donut](https://github.com/kgavrilyuk/UvA-InfoVis-2017-TA/blob/master/assets/sold_dwellings_by_type_donut.png?raw=true)
+![No. of Dwellings Sold in 2010 Donut](https://github.com/kgavrilyuk/UvA-InfoVis-2017-Students/blob/master/assets/sold_dwellings_by_type_donut.png)
 
 **Requirements:** The part is complete when it has met the following requirements:
 
