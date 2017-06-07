@@ -260,9 +260,13 @@ Similar to the walkthrough example, you should first define your visual layout i
 
 ## Assignment Part II: Sold Dwellings in the Netherlands
 
-In the final part of the assignment, you will visualize the number of sold dwellings (i.e. houses) in the Netherlands. We want to show the number of sold dwellings by each dwelling type for the year 2016. You're advised to use a pie or donut chart, as it is suitable for visualizing percentages and shares. An example of output: two figures below. The dataset can be simply downloaded from this repository `/datasets/House_Price_Index_Dwellings.csv`. Additionally, you can have a look at the dataset on [cbs.nl](http://statline.cbs.nl/StatWeb/publication/?DM=SLEN&PA=81886ENG&D1=0-5&D2=a&D3=79-l&LA=EN&HDR=T&STB=G1,G2&VW=T).
+In the final part of the assignment, you will visualize the number of sold dwellings (i.e. houses) in the Netherlands. We want to show the number of sold dwellings by each dwelling type for the year 2016. You're advised to use a pie chart or donut chart, as it is suitable for visualizing percentages and shares. An example of output: two figures below. The dataset can be simply downloaded from this repository `/datasets/House_Price_Index_Dwellings.csv`. Additionally, you can have a look at the dataset on [cbs.nl](http://statline.cbs.nl/StatWeb/publication/?DM=SLEN&PA=81886ENG&D1=0-5&D2=a&D3=79-l&LA=EN&HDR=T&STB=G1,G2&VW=T).
+
+The figure below represents an example of a pie chart, visualizing the aforementioned data.
 
 ![No. of Dwellings Sold in 2010 Pie](https://github.com/kgavrilyuk/UvA-InfoVis-2017-Students/blob/master/assets/sold_dwellings_by_type.png)
+
+While the figure below represents an example of a donut chart, visualizing the aforementioned data.
 
 ![No. of Dwellings Sold in 2010 Donut](https://github.com/kgavrilyuk/UvA-InfoVis-2017-Students/blob/master/assets/sold_dwellings_by_type_donut.png)
 
