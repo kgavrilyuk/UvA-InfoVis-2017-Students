@@ -282,7 +282,7 @@ While the figure below represents an example of a donut chart, visualizing the a
 
 ## Handing-in the Assignment
 
-The assignment is handed in through Blackboard: **do not send the deliverables per e-mail, they will get lost.** The deadline for this assignment can be found in the table at the top of this document. When your assignment contains multiple files, please make and upload a ZIP archive file to Blackboard. Your deliverables should include at least the following:
+The assignment is handed in using Blackboard: **do not send the deliverables per e-mail, they will get lost.** The deadline for this assignment can be found in the table at the top of this document. When your assignment contains multiple files, please make and upload a ZIP archive file to Blackboard. Your deliverables should include at least the following:
 
 1. A short description of the visualization technique
 2. D3.js code used to produce the visualization
