@@ -285,8 +285,11 @@ While the figure below represents an example of a donut chart, visualizing the a
 The assignment is handed in using Blackboard. **Please, do not send the deliverables per e-mail, they will get lost.** The deadline for this assignment can be found in the table at the top of this document. When your assignment contains multiple files, please make and upload a ZIP archive file to Blackboard. Your deliverables should include at least the following:
 
 1. A short description of the visualization technique
-2. D3.js code used to produce the visualization
-3. Visualization result
+2. Visualization result
+3. All the source code used to produce the visualization. The source code is better written and delivered in 3 files:
+ - content `.html`
+ - script `.js`
+ - style `.css` (optional).
 
 We should be able to open your visualization with a single click, i.e. open the HTML file in the browser (e.g. dataset file should be in place).
 
