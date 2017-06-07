@@ -149,7 +149,7 @@ Although we have setup the bar chart, there is still nothing to show if you view
 ```javascript
 // Here we define the path to the .csv file we are going to load.
 // Note that this assumes that the dataset file is in the datasets directory
-var csv_file = "../../datasets/marriage.csv";
+var csv_file = "../datasets/marriage.csv";
 d3.csv(csv_file, function(error, data) {
 
     // Everything that uses the data will be inside this callback function.
