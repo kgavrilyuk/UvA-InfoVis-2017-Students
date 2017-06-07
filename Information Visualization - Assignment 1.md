@@ -280,7 +280,7 @@ While the figure below represents an example of a donut chart, visualizing the a
 6. The size of these sections are in proportion to the percentages of the represented types
 7. The total number of sold dwellings is shown, as well as the percentages.
 
-## Handing-in of the Assignment
+## Handing-in the Assignment
 
 The assignment is handed in through Blackboard: **do not send the deliverables per e-mail, they will get lost.** The deadline for this assignment can be found in the table at the top of this document. When your assignment contains multiple files, please make and upload a ZIP archive file to Blackboard. Your deliverables should include at least the following:
 
