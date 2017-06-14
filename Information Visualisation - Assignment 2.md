@@ -109,7 +109,7 @@ with open("source_file.tsv") as tsvfile:
         '''
 ```
 
-For reading big files (.csv) in Python you could use `Panda` library. It makes things a lot easier and faster. Also, this library is very helpful in getting rows and columns of your data based on conditions.
+For reading big data files in Python you could use `Panda` library. It makes things a lot easier and faster. Also, this library is very helpful in selecting rows and columns of your data based on conditions.
 
 __Read a large `.csv` file in Python using Pandas__
 ```Python
