@@ -80,6 +80,14 @@ Dataset Energielabels in Amsterdam bevat ruwe data van afgegeven energielabels v
 - **Data Format**: One CSV file
 - **External URL**: [Browse](https://data.amsterdam.nl/index.html#?dte=https:%2F%2Fapi.datapunt.amsterdam.nl%2Fcatalogus%2Fapi%2F3%2Faction%2Fpackage_show%3Fid%3D4aa86565-e9b8-4a4f-a008-40896bf7f213&dtfs=T&mpb=topografie&mpz=9&mpv=52.3719:4.9012), [Download](https://github.com/kgavrilyuk/UvA-InfoVis-2017-Students/blob/master/datasets/7.%20Energielabels%20in%20Amsterdam/selectie%20gemeentes%20Amsterdam%204-1-2012.zip?raw=true), or [Download](http://open.datapunt.amsterdam.nl/uploads/energielabels-in-amsterdam/selectie%20gemeentes%20Amsterdam%204-1-2012.csv)
 
+### 8. Homicide Reports
+
+The Murder Accountability Project is the most complete database of homicides in the United States currently available. This dataset includes murders from the FBI's Supplementary Homicide Report from 1976 to the present and Freedom of Information Act data on more than 22,000 homicides that were not reported to the Justice Department. This dataset includes the age, race, sex, ethnicity of victims and perpetrators, in addition to the relationship between the victim and perpetrator and weapon used.
+
+- **Data and Description Source**: Kaggle
+- **Data Format**: One CSV file (as .zip file)
+- **External URL**: [Browse](https://www.kaggle.com/murderaccountability/homicide-reports), [Download](https://github.com/kgavrilyuk/UvA-InfoVis-2017-Students/blob/master/datasets/8.%20Homicide%20Reports/homicide-reports.zip?raw=true), or [Download](https://www.kaggle.com/murderaccountability/homicide-reports/downloads/homicide-reports.zip)
+
 # Tips and Recommendations
 
 ### Use of other resources
