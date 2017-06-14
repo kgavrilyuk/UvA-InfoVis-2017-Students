@@ -109,6 +109,29 @@ with open("source_file.tsv") as tsvfile:
         '''
 ```
 
+For reading big files (.csv) in Python you could use `Panda` library. It makes things a lot easier and faster. Also, this library is very helpful in getting rows and columns of your data based on conditions.
+
+__Write to a `.json` file in Python__
+```Python
+import pandas as pd
+
+// relative path of the data file
+data_path = './data/flights.csv'
+
+// read .csv file with panda
+data = pd.read_csv(data_path)
+
+// for debugging purposes, only consider the first 100 rows
+// if your data is really large (100s of thousands of rows)
+rows = data.head(100)
+
+// index all the rows, and only the 8th column (zero-based indexing)
+column_seven = rows.ix[:, 7]
+
+// now, get the values in that column
+values = column_seven.values
+```
+
 For reading Excel spreadsheet files (.xls)  in Python you could use the `xlrd` package which can be downloaded from [pypi.python.org](https://pypi.python.org/pypi/xlrd). After reading and processing the data, the `json` package can be used for exporting the data to JSON file which is suitable for reading in D3.js. Make sure to look at the original dataset table, to be sure that you are loading data correctly.
 
 __Write to a `.json` file in Python__
