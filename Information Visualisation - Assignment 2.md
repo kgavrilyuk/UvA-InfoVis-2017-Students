@@ -115,20 +115,20 @@ __Write to a `.json` file in Python__
 ```Python
 import pandas as pd
 
-// relative path of the data file
+# relative path of the data file
 data_path = './data/flights.csv'
 
-// read .csv file with panda
+# read .csv file with panda
 data = pd.read_csv(data_path)
 
-// for debugging purposes, only consider the first 100 rows
-// if your data is really large (100s of thousands of rows)
+# for debugging purposes, only consider the first 100 rows
+# if your data is really large (100s of thousands of rows)
 rows = data.head(100)
 
-// index all the rows, and only the 8th column (zero-based indexing)
+# index all the rows, and only the 8th column (zero-based indexing)
 column_seven = rows.ix[:, 7]
 
-// now, get the values in that column
+# now, get the values in that column
 values = column_seven.values
 ```
 
