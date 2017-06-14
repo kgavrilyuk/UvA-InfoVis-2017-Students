@@ -84,7 +84,7 @@ Dataset Energielabels in Amsterdam bevat ruwe data van afgegeven energielabels v
 
 ### Use of other resources
 If you feel that you need other resources, you can use the websites from which the data originates. For example, if you think that the GDP depends on population, you may need the
-data on population of each country. Additionally, you can use other sources, such as [Google
+data on population of each country. Additionally, you can use other data sources, such as [Google
 Trends](https://www.google.com/trends/) to get regional data related to what people search for in The Netherlands and Europe. We encourage students to explore and combine other data as creativity and information rich visualization will positively contribute towards your final grade.
 
 ### Mix and Match
