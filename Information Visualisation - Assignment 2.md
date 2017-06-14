@@ -126,3 +126,10 @@ with open("target_file.json", "w") as outfile:
 4. NYC Open Data [Link](https://data.cityofnewyork.us/)
 5. Kaggle Datasets [Link](https://www.kaggle.com/datasets)
 6. Centraal Bureau voor Statistiek (CBS) [Link](https://www.cbs.nl/en-gb)
+
+# Get Inspired
+
+1. Bloomberg best visualizations [Link](https://www.bloomberg.com/graphics/infographics/)
+2. Fifteen mind-blowing data visualizations [Link](http://blog.udacity.com/2015/01/15-data-visualizations-will-blow-mind.html)
+3. A Tour through the visualization zoo [Link](http://delivery.acm.org/10.1145/1750000/1743567/p59-heer.pdf?ip=145.18.164.25&id=1743567&acc=OPEN&key=0C390721DC3021FF%2E86041C471C98F6DA%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=948339258&CFTOKEN=99167172&__acm__=1497444155_4164f282b5ff59d5dad7e4bf2e0a48bc)
+4. The eyes have it: A task by data type taxonomy for information visualizations [Link](https://www.cs.umd.edu/~ben/papers/Shneiderman1996eyes.pdf)
