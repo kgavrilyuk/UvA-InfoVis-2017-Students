@@ -111,7 +111,7 @@ with open("source_file.tsv") as tsvfile:
 
 For reading big files (.csv) in Python you could use `Panda` library. It makes things a lot easier and faster. Also, this library is very helpful in getting rows and columns of your data based on conditions.
 
-__Write to a `.json` file in Python__
+__Read a large `.csv` file in Python using Pandas__
 ```Python
 import pandas as pd
 
