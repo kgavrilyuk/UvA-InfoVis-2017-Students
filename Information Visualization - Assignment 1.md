@@ -101,7 +101,6 @@ text.label {
   fill: #FFFFFF;
   font: 10px sans-serif;
 }
-}
 ```
 
 If you open `barchart.html` in your browser at this point you will just see a blank page because we did not add any elements to the page. Now that we have a placeholder and styling for the chart, we continue by downloading the dataset that we will use for the visualization. The dataset is available in **[comma separated value](https://en.wikipedia.org/wiki/Comma-separated_values)** (CSV) format in `datasets` directory and in Blackboard under the name `marriage.csv`. Please download the dataset and put it in the `datasets` directory. As you study the contents of the dataset file, you will see that it contains the percentage of never married in the United States of America from 1960 till 2012. For this simple walkthrough we will only use the information about all people (`all`) independent of the level of education, wealth, location or ethnic group. You will use the columns denoting the wealth later in this assignment.
